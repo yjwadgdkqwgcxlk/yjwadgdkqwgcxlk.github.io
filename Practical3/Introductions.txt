@@ -1,4 +1,10 @@
-Hello, my name is Rob.
+Hello, my name is Yitong Liu.
 I like drinking tea and eating chocolate biscuits.
 I am enjoying teaching IBI1 in person again 
 I am happy that I can push my repo from Visual Studio Code to GitHub
+I like play the violin.
+I like going skiing.
+I like going skating, too.
+I also like climbing mountains and going hiking.
+Generally speaking, I like outdoor activities and adventures.
+I would like to learn to go surfing, is there anyone available to teach me?
